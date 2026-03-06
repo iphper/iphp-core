@@ -1,0 +1,16 @@
+{
+    "name": "iphper/iphp-core",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Iphper\\IphpCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "iphper",
+            "email": "igping@163.com"
+        }
+    ],
+    "require": {}
+}
