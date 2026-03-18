@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Iphper\\IphpCore\\' => array($baseDir . '/src'),
+    'Iphp\\' => array($baseDir . '/src/iphp'),
 );

@@ -9,14 +9,14 @@ class ComposerStaticInit42bfd7dc3deaa723b34292e3e1e55785
     public static $prefixLengthsPsr4 = array (
         'I' => 
         array (
-            'Iphper\\IphpCore\\' => 16,
+            'Iphp\\' => 5,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Iphper\\IphpCore\\' => 
+        'Iphp\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/src',
+            0 => __DIR__ . '/../..' . '/src/iphp',
         ),
     );
 
